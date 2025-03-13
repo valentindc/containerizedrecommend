@@ -11,10 +11,10 @@
 
 
 # Any user should first have at it's disposal a dataset like those available at kaggle
-# With a dataset for all movies available there I downloaded it, prepared it for some of the analysis I had in mind
-# All of it can be seen in data_retriever.ipynb, or simply run and get the same dataset I used for training the recommender model.
-# The model is very simple as it's sole purpose for the moment was to try and get it working from dataset to the recommender app.
-# It was trained on an NVIDIA GPU, if CUDA doesn't find any it should defaul to the CPU and do it anyways (albeit it'll take some time)
+With a dataset for all movies available there I downloaded it, prepared it for some of the analysis I had in mind
+All of it can be seen in data_retriever.ipynb, or simply run and get the same dataset I used for training the recommender model.
+The model is very simple as it's sole purpose for the moment was to try and get it working from dataset to the recommender app.
+It was trained on an NVIDIA GPU, if CUDA doesn't find any it should defaul to the CPU and do it anyways (albeit it'll take some time)
 
 
 # Movie Recommender System
